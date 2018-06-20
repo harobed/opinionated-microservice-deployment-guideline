@@ -24,7 +24,7 @@ Note:
 
 * deploy your app with [docker-compose](https://docs.docker.com/compose/) (Follow [The Twelve-Factor App](https://12factor.net/) methodology)
 * configure monitoring, instrumentation services:
-  * Prometheous
+  * Prometheus
   * Sentry
   * …
 
