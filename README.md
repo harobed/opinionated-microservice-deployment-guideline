@@ -37,8 +37,11 @@ Then when you merge to your Git stable branch your application will be automatic
 
 **Third step**
 
-When first and second step is totally stable and mastered by the team **and that
-you have scalability need** then migrate your production environment to [Kubernetes](https://kubernetes.io/)
+Deploy your microservice app on [Kubernetes](https://kubernetes.io/) only if:
+
+* you master the first and second steps
+* and your app need scalability
+
 
 **fourth step**
 
