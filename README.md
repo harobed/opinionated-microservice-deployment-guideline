@@ -46,4 +46,4 @@ you have scalability need** then migrate your production environment to [Kuberne
 
 ## My advice
 
-Don't try to directly go to fourth step before masterize previous step.
+Don't try to directly go to fourth step before masterize previous steps.
