@@ -45,7 +45,7 @@ Deploy your microservice app on [Kubernetes](https://kubernetes.io/) only if:
 
 **fourth step**
 
-* Deploy [Envoy](https://envoy.com/) / [Istio](https://istio.io/) on your Kubernetes Cluster
+* Deploy [Envoy](https://www.envoyproxy.io/) / [Istio](https://istio.io/) on your Kubernetes Cluster
 
 ## My advice
 
